@@ -1,1 +1,1 @@
-worker: python3 -m SpamX
+worker: bash start
